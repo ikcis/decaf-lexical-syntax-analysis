@@ -1,6 +1,6 @@
 # decaf-lexical-syntax-analysis
 
-利用flex和bison实现Decaf编译器的词法、语法分析工作
+## 利用flex和bison实现Decaf编译器的词法、语法分析工作
 
 Decaf编译器的词法分析工作，即用flex工具生成一个扫描程序，对Decaf语言编写的源程序从左至右逐个字符进行扫描，产生一个单词序列，用以进行下一阶段的语法分析。
 
